@@ -1,78 +1,18 @@
-# 👋 Hey, I'm [Noah]
+<div align="center">
 
-Full-stack developer interested in AI systems, scalable web apps, and developer tooling.
+# [Noah]
 
----
+Full-stack developer building practical web applications and AI-assisted systems with a focus on real deployment and scalability.
 
-## 🚀 Tech Stack
+Currently developing a live platform while refining architecture, performance, and user experience through continuous iteration.
 
-### Frontend
-- React
-- Vite
-- TypeScript
-- TailwindCSS
+Main stack: React, Vite, Node.js, Hono, Cloudflare Workers.
 
-### Backend
-- Node.js
-- Hono
-- Express
+Interested in turning simple ideas into working systems, then improving them through real usage.
 
-### Cloud & Infrastructure
-- Cloudflare Workers
-- D1
-- KV
-- Docker
+```bash id="3x8k2n"
+Build it. Ship it. Improve it in production.
+```
 
-### Databases
-- PostgreSQL
-- SQLite
+</div>
 
-### Other Interests
-- AI integrations
-- Automation workflows
-- Edge computing
-- System design
-
----
-
-## ⚡ Current Focus
-
-Currently exploring:
-- Distributed systems
-- Multi-agent workflows
-- Performance optimization
-- Better developer experience tooling
-
----
-
-## 🧠 What I Like Building
-
-- Full-stack web apps
-- AI-assisted tools
-- Automation systems
-- Developer utilities
-- Arabic-first platforms
-
----
-
-## 📌 Goals
-
-- Build scalable and useful products
-- Contribute more to open source
-- Learn deeper system architecture
-- Create tools that solve real problems
-
----
-
-## 🌍 Outside of Coding
-
-Interested in:
-- Product design
-- UI/UX thinking
-- Emerging AI systems
-- Future web infrastructure
-
----
-
-```bash
-Building, breaking, and learning.
