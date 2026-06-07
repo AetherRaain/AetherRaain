@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm [Noah]
 
 Full-stack developer interested in AI systems, scalable web apps, and developer tooling.
 
